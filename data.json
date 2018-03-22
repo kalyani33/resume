@@ -1,0 +1,49 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+
+  },
+  "education":[
+    {
+      "degree":"S.S.C",
+      "school":"sister stanislas E.M school",
+      "data":["2013","88%"]
+    },
+    {
+      "degree":"Intermediate",
+      "school":"sri chaitanya junior college",
+      "data":["2013-15","92%"]
+    },
+    {
+      "degree":"B.Tech(C.S.E)",
+      "school":"G Pullaiah College Of Engineering and Technology",
+      "data":["2015-19","80%"]
+    }
+  ],
+  "skills":[
+    {
+      "name":"Languages",
+      "info":["R","Java","c#","python","c++","PHP"]
+    },
+    {
+      "name":"Operating System",
+      "info":["win-10","fedora","redHat","ubuntu"]
+    },
+    {
+      "name":"Data Bases",
+      "info":["MySql","Oracle","mangoDB","PDO"]
+    },
+    {
+      "name":"Web Technologies",
+      "info":["javascript","HTML","CSS","JSP"]
+    },
+    {
+      "name":"Frameworks",
+      "info":[".NET","Bootstrap","codeigniter"]
+    },
+    {
+      "name":"Libraries",
+      "info":["jQuery"]
+    }
+  ]
+}
